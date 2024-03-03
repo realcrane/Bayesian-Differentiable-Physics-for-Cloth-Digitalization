@@ -17,7 +17,7 @@ SOURCES = ['bind.cpp', 'scr/Mesh.cpp', 'scr/MeshIO.cpp', 'scr/Geometry.cpp',
 
 SOURCES = SOURCES + glob.glob(ALGLIB_DIR + "*.cpp")
 
-setup(name='diffsimMulGPU',
+setup(name='diffsim',
 	install_requires=['torch'],
 	ext_modules=[cpp_extension.CppExtension(
 		name='diffsim', 
