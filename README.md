@@ -14,7 +14,7 @@ Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
 ## How to install
 
 1. Install GCC and CUDA, and confirm their environment variables are set correctly.
-2. Install Python (Recommond to use Annaconda to create a new environment).
+2. Install Python (Recommond to use Anaconda to create a new environment).
 3. Install Pytorch and Kaolin with following their official documentations.
 4. Download Alglib, Boost, and Eigen to a diretory you like.
 5. Change the Setup.py to make sure the paths are set correctly, i.e. INCLUDE_DIR.append(...).
