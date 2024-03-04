@@ -29,6 +29,8 @@ Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
 
 # Cusick Drape Dataset
 
-The data are available in the .\data\...
+The data are available in the .\data\... 
+
+More data will be uploaded soon.
 
 # To be cont...
