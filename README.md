@@ -27,4 +27,8 @@ Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
 -> import diffsim
 ```
 
+# Cusick Drape Dataset
+
+The data are available in the .\data\...
+
 # To be cont...
