@@ -3,8 +3,9 @@ Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
 
 ## Needed Compilers and Libraries
 
-- GCC 9.5.0 (or MSVC)
+- GCC 9.5.0 (or MSVC 19.29.30139)
 - CUDA 11.3
+- Python 3.8.13
 - PyTorch 1.12.1
 - Kaolin 0.12.0
 - Alglib 3.17.0
