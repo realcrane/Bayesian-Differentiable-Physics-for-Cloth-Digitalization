@@ -34,4 +34,21 @@ The data are available in the .\data\...
 
 More data will be uploaded soon.
 
-# To be cont...
+## Authors
+Authors
+Deshan Gong, Zhanxing Zhu, Andy Bulpitt and He Wang
+
+Deshan Gong, scdg@leeds.ac.uk
+
+He Wang, h.e.wang@leeds.ac.uk, [Personal website](https://drhewang.com)
+
+Project Webpage: https://drhewang.com/pages/BDP.html
+
+## Citation (Bibtex)
+Please cite our paper if you find it useful:
+
+    @InProceedings{Gong_Bayesian_2024,
+    author={Deshan Gong, Ningtao Mao and He Wang},
+    booktitle={The Conference on Computer Vision and Pattern Recognition (CVPR)},
+    title={Bayesian Differentiable Physics for Cloth Digitalization},
+    year={2024}}
