@@ -40,7 +40,7 @@ Deshan Gong, Zhanxing Zhu, Andy Bulpitt and He Wang
 
 Deshan Gong, scdg@leeds.ac.uk
 
-He Wang, h.e.wang@leeds.ac.uk, [Personal website](https://drhewang.com)
+He Wang, he_wang@@ucl.ac.uk, [Personal website](https://drhewang.com)
 
 Project Webpage: https://drhewang.com/pages/BDP.html
 
