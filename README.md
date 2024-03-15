@@ -36,7 +36,7 @@ More data will be uploaded soon.
 
 ## Authors
 Authors
-Deshan Gong, Zhanxing Zhu, Andy Bulpitt and He Wang
+Deshan Gong, Ningtao Mao and He Wang
 
 Deshan Gong, scdg@leeds.ac.uk
 
