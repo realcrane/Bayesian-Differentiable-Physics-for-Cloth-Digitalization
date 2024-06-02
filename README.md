@@ -32,11 +32,13 @@ Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
 
 The data are available in the .\data\... 
 
-More data will be uploaded soon.
+Silhouettes have been uploaded. 
+
+Meshes will be uploaded soon.
 
 ## Authors
 Authors
-Deshan Gong, Ningtao Mao and He Wang
+Deshan Gong, Ningtao Mao, and He Wang
 
 Deshan Gong, scdg@leeds.ac.uk
 
