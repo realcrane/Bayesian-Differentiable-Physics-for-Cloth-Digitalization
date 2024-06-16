@@ -1,9 +1,9 @@
-# Bayesian-Differentiable-Physics-for-Cloth-Digitalization
+# Bayesian Differentiable Physics for Cloth Digitalization
 Our CVPR 2024 paper [Bayesian Differentiable Physics for Cloth Digitalization](https://arxiv.org/abs/2402.17664). 
 
-[<img src="images/video_icon.svg" width="50" height="50">](https://youtu.be/ProN0y1bURY?si=p7kFYZA04UZ_zV1y)
-
 ![Digitialize Real Fabrics from Cusick Drape Testing Results](images/teaser_with_real.png)
+
+[<img src="images/video_icon.svg" width="50" height="50">](https://youtu.be/ProN0y1bURY?si=p7kFYZA04UZ_zV1y)
 
 ## Needed Compilers and Libraries
 
@@ -32,13 +32,11 @@ Our CVPR 2024 paper [Bayesian Differentiable Physics for Cloth Digitalization](h
 -> import diffsim
 ```
 
+Check out the python scripts in the folder **experiments** for training our BDP. They have detailed comments for explaining themselves.
+
 # Cusick Drape Dataset
 
 The data are available in the .\data\... 
-
-Silhouettes have been uploaded. 
-
-Meshes will be uploaded soon.
 
 ## Authors
 Authors
