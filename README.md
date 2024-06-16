@@ -1,7 +1,7 @@
 # Bayesian-Differentiable-Physics-for-Cloth-Digitalization
 Our CVPR 2024 paper [Bayesian Differentiable Physics for Cloth Digitalization](https://arxiv.org/abs/2402.17664). 
 
-<img src="images/video_icon.svg" width="50" height="50">[Video on YouTube](https://youtu.be/ProN0y1bURY?si=p7kFYZA04UZ_zV1y)
+[<img src="images/video_icon.svg" width="50" height="50">](https://youtu.be/ProN0y1bURY?si=p7kFYZA04UZ_zV1y)
 
 ![Digitialize Real Fabrics from Cusick Drape Testing Results](images/teaser_with_real.png)
 
