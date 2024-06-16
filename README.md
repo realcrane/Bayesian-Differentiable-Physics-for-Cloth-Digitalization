@@ -1,5 +1,7 @@
 # Bayesian-Differentiable-Physics-for-Cloth-Digitalization
-Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
+Our CVPR 2024 paper ['Bayesian Differentiable Physics for Cloth Digitalization'](https://arxiv.org/abs/2402.17664)
+
+![Digitialize Real Fabrics from Cusick Drape Testing Results](images/teaser_with_real.png)
 
 ## Needed Compilers and Libraries
 
@@ -15,7 +17,7 @@ Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'
 ## How to install
 
 1. Install GCC and CUDA, and confirm their environment variables are set correctly.
-2. Install Python (Recommond to use Anaconda to create a new environment).
+2. Install Python (Recommond to use Anaconda).
 3. Install Pytorch and Kaolin with following their official documentations.
 4. Download Alglib, Boost, and Eigen to a diretory you like.
 5. Change the Setup.py to make sure the paths are set correctly, i.e. INCLUDE_DIR.append(...).
