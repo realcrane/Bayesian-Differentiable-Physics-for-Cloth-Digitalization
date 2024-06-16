@@ -34,9 +34,9 @@ Our CVPR 2024 paper [Bayesian Differentiable Physics for Cloth Digitalization](h
 
 Check out the python scripts in the folder **experiments** for training our BDP. They have detailed comments for explaining themselves.
 
-# Cusick Drape Dataset
+## Cusick Drape Dataset
 
-The data are available in the .\data\... 
+The dataset in given in the folder data. 
 
 ## Authors
 Authors
