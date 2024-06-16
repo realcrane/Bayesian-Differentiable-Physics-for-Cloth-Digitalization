@@ -48,7 +48,7 @@ EPOCH = 1000    # Number of epochs
 SIM_STEPS = 99  # Number of simulation steps [NO need to change when following the paper]
 BNN_NUM_SAMPLES = NUM_GT # When 1, learning from single training sample. Otherwise, learning from multiple samples.
 IS_SELECT_SAMPLES = True    # Select training samples or not
-SELECTED_SAMPLE_IDXS = [2] # Use when train by one sample (Sample 5)
+SELECTED_SAMPLE_IDXS = [2] # Use when train by one sample (Sample 2)
 
 # read the ground truth images path
 gt_images_walk = os.walk(cloth_image_gt_path)
@@ -338,7 +338,7 @@ optim = Adam([
 ])
 
 # --------------- For Loading Trained Models ------------------
-# model_dict = torch.load("./train_bnn_log/train18/checkpoint/train_dict_epoch0.pt")
+# model_dict = torch.load("./train_bnn_log/train1/checkpoint/train_dict_epoch0.pt")
 # net.load_state_dict(model_dict['model_state_dict'])
 # optim.load_state_dict(model_dict['optimizer_state_dict'])
 
