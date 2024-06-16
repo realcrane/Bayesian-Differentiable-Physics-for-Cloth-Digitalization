@@ -1,5 +1,7 @@
 # Bayesian-Differentiable-Physics-for-Cloth-Digitalization
-Our CVPR 2024 paper ['Bayesian Differentiable Physics for Cloth Digitalization'](https://arxiv.org/abs/2402.17664)
+Our CVPR 2024 paper [Bayesian Differentiable Physics for Cloth Digitalization](https://arxiv.org/abs/2402.17664). 
+
+[Video on YouTube](https://youtu.be/ProN0y1bURY?si=p7kFYZA04UZ_zV1y)
 
 ![Digitialize Real Fabrics from Cusick Drape Testing Results](images/teaser_with_real.png)
 
@@ -44,7 +46,7 @@ Deshan Gong, Ningtao Mao, and He Wang
 
 Deshan Gong, scdg@leeds.ac.uk
 
-He Wang, he_wang@@ucl.ac.uk, [Personal website](https://drhewang.com)
+He Wang, he_wang@ucl.ac.uk, [Personal website](https://drhewang.com)
 
 Project Webpage: https://drhewang.com/pages/BDP.html
 
